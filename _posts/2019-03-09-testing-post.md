@@ -15,6 +15,6 @@ This is a testing post.
 **testing sentence**
 
 Here is an image:
-![alt text](author.jpg "author")
+![Minion](http://octodex.github.com/images/minion.png)
 
 This is a link: [I'm a link](https://github.com/starrymonkey/starrymonkey.github.io)
