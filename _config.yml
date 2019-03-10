@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Think"
 title_right   : "space" # default: ""
-description   : "Maya Shen's Personal Website"
+description   : "Maya Shen"
 keywords      : ""
 url           : https://starrymonkey.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -41,6 +41,10 @@ navbar:
     title: About
   - slug : blog
     title: Blog
+  - slug : projects
+    title: Projects
+  - slug : for_fun
+    title: For_fun
 
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
