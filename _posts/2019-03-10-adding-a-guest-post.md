@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Util: adding a Guest post.."
+title: "Util: Adding a Guest Post"
 comments: true
 description: "have a Guest post.."
 keywords: "dummy content"
