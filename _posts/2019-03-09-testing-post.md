@@ -15,6 +15,6 @@ This is a testing post.
 **testing sentence**
 
 Here is an image:
-![alt text](https://github.com/starrymonkey/Files/blob/master/images_for_personal_site/author%20copy.jpg)
+![alt text](author.jpg "author")
 
 This is a link: [I'm a link](https://github.com/starrymonkey/starrymonkey.github.io)
