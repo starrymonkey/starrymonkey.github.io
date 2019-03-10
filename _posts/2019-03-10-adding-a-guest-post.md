@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "If you have a Guest post.."
+title: "Util: adding a Guest post.."
 comments: true
-description: "If you have a Guest post.."
+description: "have a Guest post.."
 keywords: "dummy content"
 author: GuestName
 ---
